@@ -1,3 +1,9 @@
+commit 3e67bce0a5930ee84ebd8e37f9b767268b72af9e
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Apr 25 10:30:15 2026 +0000
+
+    bumped changelog version
+
 commit c11cb135840e604b42cff0edf00592512ef68320
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Apr 25 06:16:30 2026 -0400
@@ -1751,7 +1757,7 @@ commit 75244c17a9ed0569faa00f1181644d847a2840ac
 Author: Rusty Bird <rustybird@openmailbox.org>
 Date:   Mon Jul 4 10:22:29 2016 +0000
 
-    Make corridor-load-config greexecutable again
+    Make corridor-load-config gre_executable again
 
     Works as a config file sanity tester now. #10
 
